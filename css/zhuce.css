@@ -1,0 +1,87 @@
+.login-box{
+    width:100%;
+    height:0.88rem;
+    color:#fff;
+    font-size:0.36rem;
+    line-height:0.88rem;
+}
+.login-box a{
+    float: left;
+    color:#dce1fe;
+    margin-left: 0.5rem;
+    font-size:0.5rem;
+    line-height:0.88rem;
+}
+.login-box div{
+    margin:0 auto;
+    width:0.72rem;
+    height:100%;
+}
+.sjh{
+    width:5rem;
+    height: 0.88rem;
+    margin:0 auto;
+    border-radius: 0.05rem;
+}
+.sjh form{
+    width:5rem;
+    height: 0.88rem;
+    background: #94a3f6;
+    outline: none;
+    margin-top:0.9rem;
+    display: flex;
+}
+.aaa{
+    background: #94a3f6;
+}
+.bbb{
+    background:#94a3f6;
+}
+input::-webkit-input-placeholder { /* WebKit browsers */
+    color: #fff;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #fff;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #fff;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #fff;
+}
+#sjh2{
+    position: relative;
+}
+.yzm{
+    width:1.93rem;
+    height:0.68rem;
+    background:#989ff9;
+    border:0.01rem solid #fff;
+    position: absolute;
+    right:0.1rem;
+    top:0.1rem;
+    border-radius: 0.08rem;
+}
+#sjh2 .yzm a{
+    display: block;
+    width:100%;
+    height:100%;
+    font-size: 0.24rem;
+    color:#fff;
+    text-align: center;
+    line-height: 0.68rem;
+}
+.denglu , .denglu a{
+    width:5rem;
+    height: 0.88rem;
+    margin: 0.5rem auto;
+    border-radius: 0.05rem;
+    background: #91a7f3;
+}
+.denglu a{
+    font-size: 0.32rem;
+    color: #fff;
+    display: block;
+    text-align: center;
+    line-height: 0.8rem;
+}
